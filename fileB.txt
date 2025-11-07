@@ -1,1 +1,1 @@
-hello fileB.
+hello fileB
